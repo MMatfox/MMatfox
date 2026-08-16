@@ -86,19 +86,6 @@ Undergraduate student in **Information Systems & Computer Science (MIAGE)**, inc
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MMatfox&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMatfox&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MMatfox&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
